@@ -1,3 +1,6 @@
+# 视频搭建教程:Onedrive是微软公司推出的网络云存储服务，学生账号可申请5T免费空间。（国内访问困难）
+[https://www.bilibili.com/video/av27789262/](bilibili)
+
 # oneindex
 Onedrive Directory Index
 
